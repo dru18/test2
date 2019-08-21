@@ -5,18 +5,23 @@
 
 ### About:
 
-> There are two files 'word.txt' and 'number.txt' in the master branch.
-> 'word.txt' has words for alphabets and
-> 'number.txt' has numbers in words.
+There are two files 'word.txt' and 'number.txt' in the master branch.
+
+'word.txt' has words for alphabets and
+
+'number.txt' has numbers in words.
 
 ### What to do:
 
-> word.txt : Append a new word for any alphabet just after the last word in the row.
-> number.txt : Append a new numbers in words.
+word.txt : Append a new word for any alphabet just after the last word in the row.
+
+number.txt : Append a new numbers in words.
 
 #### Getting started
 
-> First fork this repository for you.
+- First fork this repository for you.
+
+Click on the Fork button.
 
 - Now install git:
 
@@ -51,7 +56,8 @@
 `git remote update`
 
 > Result should be something like ***Everything is uptodate.***
-> Now you are *ready* to do your Git and GitHub exercises on this repo.
+
+Now you are *ready* to do your Git and GitHub exercises on this repo.
 
 
 ## Good Luck :+1:
